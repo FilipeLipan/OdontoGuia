@@ -36,7 +36,10 @@ object QuestionsData {
                     questionTitle = "Vai melhorar",
                     description = "Melhoras",
                     options = listOf(
-
+                        Option(
+                            title = "pergunta 0",
+                            path = 0
+                        )
                     )
                 )
             )
